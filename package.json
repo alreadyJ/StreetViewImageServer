@@ -1,0 +1,34 @@
+{
+  "name": "StreetViewImageServer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aframe": "^0.7.0",
+    "aframe-lerp-component": "^1.1.0",
+    "async": "^2.5.0",
+    "body-parser": "~1.13.2",
+    "connect-timeout": "^1.9.0",
+    "convert": "0.0.1",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.1",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.0",
+    "graphicsmagick": "0.0.1",
+    "imageMagick": "^0.1.2",
+    "imagemagick": "^0.1.3",
+    "imagemagick-native": "^1.9.3",
+    "morgan": "~1.6.1",
+    "mysql": "^2.14.1",
+    "node-image-resize": "0.0.2",
+    "promise": "^8.0.1",
+    "request": "^2.83.0",
+    "request-progress": "^3.0.0",
+    "serve-favicon": "~2.3.0",
+    "sync-request": "^4.1.0"
+  }
+}
